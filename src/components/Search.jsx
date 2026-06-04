@@ -17,8 +17,3 @@ function Search({search, onSearchChange}) {
 
 export default Search;
 
-/*<input
-  placeholder="Type a name to search..."
-  value={search}
-  onChange={(e) => onSearchChange(e.target.value)}
-/> */
