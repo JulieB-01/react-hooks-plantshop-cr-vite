@@ -1,6 +1,4 @@
 
-
-export default App; 
 import React, { useEffect, useState } from "react";
 import Header from "./Header";
 import PlantPage from "./PlantPage";
